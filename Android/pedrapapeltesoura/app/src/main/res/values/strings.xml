@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pedra Papel Tesoura</string>
+    <string name="escolha_da_m_quina">Escolha da Máquina</string>
+    <string name="escolha_da_maquina">escolha da maquina</string>
+    <string name="fa_a_sua_jogada">Faça sua jogada!</string>
+    <string name="pedra">pedra</string>
+    <string name="tesoura">tesoura</string>
+    <string name="papel">papel</string>
+    <string name="quebra1"></string>
+    <string name="separador2"></string>
+</resources>
